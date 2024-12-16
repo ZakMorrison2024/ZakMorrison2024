@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ZakMorrison2024
 - I mainly just do this for fun, my main focus is my games.
 - Yes, I use GPT, get over it! it's a tool, I don't have the patience to create every idea I come up with, GPT is very efficient.
-- Been programming for 20+ years. (((GML (My Bread and Butter), Python (Advanced), Javascript (Intermediate), C++ (Arduino, Okayish), C# (Novice))))
+- Been programming for 20+ years. (((GML (My First Language), Python (Advanced), Javascript (Intermediate), C++ (Arduino, Okayish), C# (Novice))))
+- I mean over English... 
 - Not everything on here works as expected, apologies. -.-
 - Feel free to take anything on here, I won't upload my main content and I probably stole something anyway.
 - I have recently fallen in-love with GitHub
