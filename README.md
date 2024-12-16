@@ -4,9 +4,10 @@
 - Been programming for 20+ years. (((GML (My First Language), Python (Advanced), Javascript (Intermediate), C++ (Arduino, Okayish), C# (Novice))))
 - I mean over English... 
 - Not everything on here works as expected, apologies. -.-
-- Feel free to take anything on here, I won't upload my main content and I probably stole something anyway.
+- Feel free to take anything on here.
 - I have recently fallen in-love with GitHub
 - I use it as a library where I can store and share good ideas and my best scripts.
+- I credit GPT and any scripts I've saved.
 <!---
 ZakMorrison2024/ZakMorrison2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
