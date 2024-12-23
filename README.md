@@ -8,6 +8,8 @@
 - I have recently fallen in-love with GitHub
 - I use it as a library where I can store and share good ideas and my best scripts.
 - I credit GPT and any scripts I've saved.
+- my code is open to interpretation :L hence the lack of comments :L
+- I'm just lazy ¬¬
 <!---
 ZakMorrison2024/ZakMorrison2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
