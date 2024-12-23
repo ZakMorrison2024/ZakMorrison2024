@@ -2,7 +2,7 @@
 - I mainly just do this for fun, my main focus is my games.
 - Yes, I use GPT, get over it! it's a tool, I don't have the patience to create every idea I come up with, GPT is very efficient. (On this not, I'm still debugging some stuff!!)
 - Been programming for 20+ years. [ ... GML (Best) ... Python (Advanced) ... C++ (Arduino: Better) ... Javascript (Basic) ... C# (Basic) ... ]
-- I HATE GML ¬¬ Sorry babes, loves yous reali uwu <3 RAWR <3 
+- I HATE GML ¬¬ Sorry babes, luvs us reali uwu <3 RAWR <3 
 - Feel free to take anything on here. I won't post anything I plan on selling anyway.
 - I have recently fallen in-love with GitHub
 - I use it as a library where I can store and share good ideas and my best scripts.
