@@ -6,6 +6,7 @@
 - Feel free to take anything on here. I won't post anything I plan on selling anyway.
 - I have recently fallen in-love with GitHub!
 - I use it as a library where I can store and share good ideas and my scripts.
+- Always improving
 - I credit GPT and any scripts I've saved. I need to go over some and credit GPT ...
 - My code is open to interpretation :L hence the lack of comments ... :L
 - I'm just lazy. ¬¬
