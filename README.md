@@ -11,7 +11,8 @@
 - My code is open to interpretation :L hence the lack of comments ... :L
 - I'm just lazy. ¬¬
 - I will eventually go over everything, to make sure a ReadMe.md is properly assigned.
-- In hell I'll be good company!
+- HEHEHEHE 40 repos and nothign works :L
+- I really need to fix this backlog ¬¬
 <!---
 ZakMorrison2024/ZakMorrison2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
