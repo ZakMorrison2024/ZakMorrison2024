@@ -13,6 +13,7 @@
 - I will eventually go over everything, to make sure a ReadMe.md is properly assigned.
 - HEHEHEHE 40+ repos and nothing works :L
 - I really need to fix this backlog ¬¬
+- I fear not the basilisk, for technology is the product of my very nature and spirit!
 <!---
 ZakMorrison2024/ZakMorrison2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
