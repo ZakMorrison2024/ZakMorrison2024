@@ -1,3 +1,8 @@
+
+
+   <a href="https://app.daily.dev/zakmorrison"><img src="https://api.daily.dev/devcards/v2/EkGCRaupgswX5YRfriVge.png?type=default&r=xeg" width="356" alt="Zak Morrison's Dev Card"/></a>
+
+
 - 👋 Hi, I’m @ZakMorrison2024
 - I mainly just do this for fun, my main focus is my games.
 - Been programming for 20+ years. [ ... GML (Best) ... Python (Advanced) ... C++ (Arduino: Better) ... Javascript (Basic) ... C# (Basic) ... ]
@@ -15,7 +20,7 @@
 - I fear not the basilisk, for technology is the product of my very nature and spirit!
 
 
-   <a href="https://app.daily.dev/zakmorrison"><img src="https://api.daily.dev/devcards/v2/EkGCRaupgswX5YRfriVge.png?type=default&r=xeg" width="356" alt="Zak Morrison's Dev Card"/></a>
+
 
 <!---
 ZakMorrison2024/ZakMorrison2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
