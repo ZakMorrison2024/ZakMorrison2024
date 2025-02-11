@@ -13,6 +13,10 @@
 - HEHEHEHE 40+ repos and nothing works :L
 - I really need to fix this backlog ¬¬
 - I fear not the basilisk, for technology is the product of my very nature and spirit!
+
+
+   <a href="https://app.daily.dev/zakmorrison"><img src="https://api.daily.dev/devcards/v2/EkGCRaupgswX5YRfriVge.png?type=default&r=xeg" width="356" alt="Zak Morrison's Dev Card"/></a>
+
 <!---
 ZakMorrison2024/ZakMorrison2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
